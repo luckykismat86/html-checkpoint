@@ -1,0 +1,101 @@
+body {
+    float: left;
+    width: 100%;
+}
+
+nav {
+    background-color: grey;
+    height: 50px;
+}
+
+h1 {
+    display: inline;
+    margin-left: 0px;
+    color: white;
+}
+
+.horizontal,
+li,
+.search {
+    list-style-type: none;
+    display: inline;
+    margin-left: 5px;
+}
+
+.horizontal-right {
+    display: inline;
+    margin-right: 5px;
+    float: right;
+}
+
+.round {
+    border-radius: 15px;
+    border: 1px black;
+    padding: 5px, 5px, 5px, 25px;
+}
+
+.search-button {
+    border-radius: 3px;
+    border-color: 1px yellow;
+    padding: 5px, 5px, 5px, 25px;
+    color: yellow;
+    background-color: transparent;
+}
+
+button {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: white;
+    size: 10px;
+    font-weight: bold;
+    font-family: 'fantasy';
+}
+
+
+/* a{
+    color: white;
+    }
+  a:active{
+    color: blue
+  } */
+
+.Login {
+    height: auto;
+    width: 20%;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
+
+.login-p {
+    width: 100%;
+    text-align: left;
+}
+
+.Login-title {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.login-submit {
+    color: white;
+    background-color: rgb(0, 180, 251);
+    border-radius: 3px;
+    background-repeat: no-repeat;
+    border: none;
+    text-align: left;
+}
+
+.input-bar {
+    width: 100%;
+    margin: auto;
+}
+
+.login-button-submit {
+    text-align: left;
+}

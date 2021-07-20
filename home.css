@@ -1,0 +1,12 @@
+.this-image {
+    width: 25%;
+    height: auto;
+}
+
+.video-images-list {
+    align-items: flex-start
+}
+
+.image-link {
+    align-items: flex-start
+}
